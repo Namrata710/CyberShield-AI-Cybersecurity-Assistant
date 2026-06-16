@@ -3,3 +3,38 @@ CyberShield is an AI-powered cybersecurity assistant designed to help security a
 
 # CyberShield
 AI-Powered Cybersecurity Operations Platform
+
+## Tech Stack
+
+Frontend:
+- React
+- TypeScript
+- Tailwind CSS
+
+Backend:
+- FastAPI
+
+AI/ML:
+- Scikit-Learn
+- Random Forest
+- XGBoost
+- Isolation Forest
+
+Database:
+- PostgreSQL
+
+Deployment:
+- Netlify
+
+- cybersecurity
+artificial-intelligence
+machine-learning
+react
+fastapi
+soc
+security-operations
+threat-detection
+phishing-detection
+malware-analysis
+portfolio-project
+
